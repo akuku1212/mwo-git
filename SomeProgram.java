@@ -4,7 +4,14 @@ public class SomeProgram {
 	System.out.println("We are insane!");
     }
 
+
 	public void manageRockets() {
     // TODO implement
 	}
+
+	public void manageTheSatellite() {
+    	// TODO implement
+	}
+
+
 }
